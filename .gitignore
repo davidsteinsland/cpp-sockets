@@ -1,0 +1,3 @@
+*.komodoproject
+Makefile
+main.cpp
