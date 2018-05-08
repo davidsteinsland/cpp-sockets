@@ -89,7 +89,7 @@ namespace net {
 
 			/**
 			 * Checks whether the socket is valid
-			 * @return true of the socket is valid, false otherwise
+			 * @return true if the socket is valid, false otherwise
 			 */
 			bool valid() {
 				return socketfd != -1;
